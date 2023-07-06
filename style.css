@@ -11,7 +11,7 @@
     background-color:blanchedalmond;
     list-style: none;
     padding: 10px;
-    
+    position: fixed;
 }
 .hero-logo{
     width: 15%;
